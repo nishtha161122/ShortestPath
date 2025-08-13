@@ -1,5 +1,6 @@
 # ShortestPath
 Dijkstra’s Algorithm in Java
+
 Java implementation of Dijkstra’s Algorithm for finding the shortest path in a weighted graph using adjacency lists and priority queues. Demonstrates Java Collections, OOP principles, and algorithm optimization. Suitable for GPS routing, network optimization, and competitive programming.
 
 Features:
